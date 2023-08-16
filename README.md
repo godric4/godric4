@@ -1,16 +1,15 @@
-### Hi there 👋
+
 
 ![Godric Marto cover image](https://res.cloudinary.com/gentlegiant/image/upload/v1692143802/devgodric_aunalq.jpg)
 
-<!--
-**godric4/godric4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello!!! 👋
 
-Here are some ideas to get you started:
+I am GODRIC MARTO an innovative and deadline-driven frontend web developer with experience in designing and developing user-centered web apps from initial concept to final delivery. turning dreams and visions in to responsive realities.
 
-- 🔭 I’m currently working on .
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Check my works @[My Portfolio](https://godricmarto.netlify.app)
+
+Send me a message on [Twitter](https://twitter.com/bytenary) or [My Mailbox](gmarto400@gmail.com)
+
+
+Amor codex est amor optimum.
