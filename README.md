@@ -4,7 +4,7 @@
 
 ### Hello!!! 👋
 
-I am GODRIC MARTO an innovative and deadline-driven frontend web developer with experience in designing and developing user-centered web apps from initial concept to final delivery. turning dreams and visions in to responsive realities.
+I am GODRIC MARTO an innovative and deadline-driven frontend web developer with experience in designing and developing user-centered web apps from initial concept to final delivery. I turn dreams and visions in to responsive realities.
 
 
 Check my works @[My Portfolio](https://godricmarto.netlify.app)
